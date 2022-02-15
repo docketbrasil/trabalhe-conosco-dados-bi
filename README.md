@@ -62,7 +62,7 @@ Como analista da área de dados, preciso levar os dados de forma concisa para o 
 
 # Como participar
 - Envie por email o seguinte conteúdo:
-    - Link do repositório do github com o código fonte do projeto
+    - Documento com as respostas das 6 perguntas acima.
     - Descrição do planejamento
     - Currículo em anexo ou link do perfil no linkedin.com
 
