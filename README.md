@@ -52,12 +52,12 @@ Como analista da área de dados, preciso levar os dados de forma concisa para o 
 
 # Perguntas
 - Tabelas: Cidade/Estado/Cartório/Documento
-1 - Qual é a cidade que mais emite documentos de forma online?
-2 - Qual estado/cidade emite mais documentos de forma geral?
-3 - Exiba quais cartórios emitem Certidão
-4 - Qual cartório emite mais tipos distintos de documentos?
-5 - Quantos cartórios tem no estado de São Paulo?
-6 - O documento Cartão Do Simples Nacional é emitido de forma manual em quais cartórios?
+  - 1 - Qual é a cidade que mais emite documentos de forma online?
+  - 2 - Qual estado/cidade emite mais documentos de forma geral?
+  - 3 - Exiba quais cartórios emitem Certidão
+  - 4 - Qual cartório emite mais tipos distintos de documentos?
+  - 5 - Quantos cartórios tem no estado de São Paulo?
+  - 6 - O documento Cartão Do Simples Nacional é emitido de forma manual em quais cartórios?
  
 
 # Como participar
